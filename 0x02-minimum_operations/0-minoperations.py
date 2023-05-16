@@ -1,4 +1,5 @@
-mum operations coding challenge.
+#!/usr/bin/python3
+'''The minimum operations coding challenge.
 '''
 
 
